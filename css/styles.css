@@ -3030,8 +3030,8 @@ textarea.form-control-lg {
 
 .btn-primary {
   color: #fff;
-  background-color: #1D809F;
-  border-color: #1D809F;
+  background-color:darkslategrey;
+  border-color: darkslategray;
 }
 .btn-primary:hover {
   color: #fff;
@@ -7357,6 +7357,7 @@ textarea.form-control-lg {
 
 .mb-0 {
   margin-bottom: 0 !important;
+  color: white;
 }
 
 .mb-1 {
@@ -7807,12 +7808,12 @@ textarea.form-control-lg {
 
 .bg-primary {
   --bs-bg-opacity: 1;
-  background-color:crimson;
+  background-color:darkslategray; 
 }
 
 .bg-secondary {
   --bs-bg-opacity: 1;
-  background-color:cadetblue;
+  background-color:indianred;
 }
 
 .bg-success {
@@ -11341,7 +11342,7 @@ html {
   transform: translateX(250px);
   background: #1D809F;
   border-left: 1px solid rgba(255, 255, 255, 0.1);
-  background-color: #bb2d3b;
+  background-color:indianred;
 }
 
 .sidebar-nav {
@@ -11445,7 +11446,7 @@ footer.footer .social-link {
   width: 4rem;
   line-height: 4.3rem;
   font-size: 1.5rem;
-  background-color: #1D809F;
+  background-color:aquamarine;
   transition: background-color 0.15s ease-in-out;
   box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
 }
@@ -11477,7 +11478,7 @@ footer.footer .social-link:hover {
   height: auto;
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../assets/img/backgroundoption3.jfif");
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../assets/img/backgroundoption5.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -11514,7 +11515,7 @@ footer.footer .social-link:hover {
   z-index: 1;
 }
 .portfolio-item .caption .caption-content {
-  color: #fff;
+  color:white;
   margin: auto 2rem 2rem;
 }
 .portfolio-item .caption .caption-content h2, .portfolio-item .caption .caption-content .h2 {
@@ -11562,8 +11563,8 @@ footer.footer .social-link:hover {
 }
 
 .service-icon {
-  background-color: #fff;
-  color: #1D809F;
+  background-color: aquamarine;
+  color: black;
   height: 7rem;
   width: 7rem;
   display: block;
